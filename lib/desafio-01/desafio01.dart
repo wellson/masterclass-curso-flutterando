@@ -1,7 +1,8 @@
 import 'dart:io';
 
-import 'package:masterclass_curso_flutterando/desafio-01/fibonacci.dart';
 
+
+import 'fibonacci.dart';
 import 'imc.dart';
 
 class Desafio1{
