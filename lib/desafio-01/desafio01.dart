@@ -1,7 +1,4 @@
 import 'dart:io';
-
-
-
 import 'fibonacci.dart';
 import 'imc.dart';
 
