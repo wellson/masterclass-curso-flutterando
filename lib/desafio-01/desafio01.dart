@@ -28,7 +28,7 @@ class Desafio1{
   print(imc.getAltura().toString() + "\n");
 
   print("\n ");
-  print("Seu imc é:" + imc.calculoImc());
+  print("Seu imc é:" + imc.calculoImc().toStringAsFixed(2));
   print("\n ");
 
   print("*********************** FIBONACCI *********************************");
